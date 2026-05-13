@@ -28,7 +28,7 @@ jobs:
 
       - name: list
         run:
-          la -la docs
+          ls -la docs
       
           
       
